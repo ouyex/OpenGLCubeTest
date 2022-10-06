@@ -93,10 +93,6 @@
     <ClCompile Include="OpenGLCubeTest.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="container.jpg" />
-    <Image Include="wall.jpg" />
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="common.h" />
     <ClInclude Include="imgui\imconfig.h" />
     <ClInclude Include="imgui\imgui.h" />
